@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d440b643-1906-4691-b743-78d211d935a8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/phenx/php-font-lib" />
+      <path value="$PROJECT_DIR$/vendor/phenx/php-svg-lib" />
+      <path value="$PROJECT_DIR$/vendor/dompdf/dompdf" />
+      <path value="$PROJECT_DIR$/vendor/sabberworm/php-css-parser" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1iTj1Fo5nY1pulYl4pIBxDtI15w" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PHP-PSRs" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\PhpstormProjects\Especializati\php_composer" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\PhpstormProjects\Especializati\php_composer\app" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d440b643-1906-4691-b743-78d211d935a8" name="Default Changelist" comment="" />
+      <created>1601938271426</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601938271426</updated>
+      <workItem from="1601938274106" duration="9635000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="542" y="281" key="#Composer" timestamp="1601938301637">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="542" y="281" key="#Composer/0.0.1536.864/1920.0.1440.900@0.0.1536.864" timestamp="1601938301637" />
+    <state x="507" y="204" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601948006493">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="507" y="204" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864/1920.0.1440.900@0.0.1536.864" timestamp="1601948006493" />
+    <state x="496" y="128" key="FileChooserDialogImpl" timestamp="1601957764606">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="496" y="128" key="FileChooserDialogImpl/0.0.1536.864/1920.0.1440.900@0.0.1536.864" timestamp="1601957764606" />
+    <state x="425" y="80" key="NewPhpClassDialog" timestamp="1601945225109">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="425" y="80" key="NewPhpClassDialog/0.0.1536.864/1920.0.1440.900@0.0.1536.864" timestamp="1601945225109" />
+    <state x="578" y="333" key="NewPhpFileDialog" timestamp="1601944848646">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="578" y="333" key="NewPhpFileDialog/0.0.1536.864/1920.0.1440.900@0.0.1536.864" timestamp="1601944848646" />
+    <state x="160" y="0" key="SettingsEditor" timestamp="1601947711965">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="160" y="0" key="SettingsEditor/0.0.1536.864/1920.0.1440.900@0.0.1536.864" timestamp="1601947711965" />
+  </component>
+</project>

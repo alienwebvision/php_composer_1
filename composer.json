@@ -1,0 +1,12 @@
+{
+    "name": "eti/laravel",
+    "description": "Curso de Laravel",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Ales Nascimento",
+            "email": "alienwebvision@gmail.com"
+        }
+    ],
+    "require": {}
+}
